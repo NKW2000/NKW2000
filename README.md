@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me:<br>
 - 🎓 **Education:** Software Engineering Graduate from the Syrian Private University<br>- 💻 **Role:** Full-Stack Developer with 1 year of hands-on experience<br>- 🚀 **Tech Stack:** Specialized in the **MERN** ecosystem (MongoDB, Express, React, Node.js)<br>- 🛠️ **Frontend Tools:** Tailwind CSS, Context API, Axios for API integration<br>- ⚙️ **Backend & Database:** Node.js, Express, and MongoDB<br>- 🌱 **Currently Learning/Exploring:** Advanced system architectures & AI-assisted development workflows
 
 # 💻 Tech Stack:
